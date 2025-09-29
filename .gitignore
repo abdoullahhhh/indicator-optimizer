@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# Optuna studies / databases
+*.sqlite
+studies.db
+
+# Plots / reports
+*.png
+*.html

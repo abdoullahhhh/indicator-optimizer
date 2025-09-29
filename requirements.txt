@@ -1,0 +1,8 @@
+numpy
+pandas
+yfinance
+TA-Lib
+vectorbt
+optuna>=3.6
+plotly
+jupyter
